@@ -1,0 +1,42 @@
+.container {
+  border: 2px solid rgb(184, 178, 178);
+  width: 750px;
+}
+.tablesContent {
+  margin-left: 50px;
+  font-size: x-large;
+  width: 350px;
+}
+.tablesContent tr input {
+  height: 35px;
+}
+.tablesContent tr button{
+  height: 40px;
+  width: 60px;
+}
+
+.bodyTables {
+  border: 2px solid rgb(210, 203, 203);
+  width: 900px;
+  height: 600px;
+  font-size: x-large;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  font-size: xx-large;
+}
+.listTb {
+  padding-bottom: 20px;
+}
+.listTb input {
+  height: 50px;
+  width: 400px;
+}
+.listTb button {
+  height: 58px;
+  width: 85px;
+  margin-left: 5px;
+}
